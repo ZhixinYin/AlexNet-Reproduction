@@ -31,6 +31,7 @@ tiny-imagenet-200 is used as the dataset in this reproduction, as ImageNet has t
 | ----------------- | ----- |
 | Training accuracy | 45.70% |
 | Test accuracy     | 34.03% |
+![](images/TrainingSetAccuracy.png)
 
 
 ## References
